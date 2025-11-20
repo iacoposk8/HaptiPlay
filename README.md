@@ -22,3 +22,10 @@ Try them online:
 | 🤫 | **Silent Play Mode** | The entire gameplay experience is guided by haptic feedback. This means you can play **in meetings, at school, in bed, or in any quiet place** without making a sound or drawing attention. It's ideal for "stealth play"! |
 | 🖐️ | **Intuitive Haptic Feedback** | We use the power of vibration to convey all game information: success, failure, direction, and status. A new dimension of gaming that you literally *feel* in your hand. |
 | 🌐 | **Cross-Platform (Browser-Based)** | Play directly from your browser (Chrome, Safari, Firefox) on any device. Fully optimized for the mobile web, ensuring immediate and responsive vibration feedback on smartphones. |
+
+## Ideas for future games:
+tower attack/defense
+
+Tap Away
+
+Brick Breaker
