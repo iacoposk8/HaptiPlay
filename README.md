@@ -23,9 +23,11 @@ Try them online:
 | 🖐️ | **Intuitive Haptic Feedback** | We use the power of vibration to convey all game information: success, failure, direction, and status. A new dimension of gaming that you literally *feel* in your hand. |
 | 🌐 | **Cross-Platform (Browser-Based)** | Play directly from your browser (Chrome, Safari, Firefox) on any device. Fully optimized for the mobile web, ensuring immediate and responsive vibration feedback on smartphones. |
 
-## Ideas for future games:
+## Ideas for future games
 tower attack/defense
 
 Tap Away
 
 Brick Breaker
+
+Story games (with AI)
